@@ -1,0 +1,144 @@
+** This is a computer generated payslip and does not require signature and stamp.
+Accenture Solutions Pvt Ltd
+Payslip For JANUARY  2020
+Personnel No. 11529297 Name Aman Kumar 
+Bank HDFC Bank A/c No. 50100217981645
+DOJ 23/Mar/2018 LOP Days 0
+PF No. MH/BAN/45665/1188766 STD Days 31
+Location Hyderabad Worked Days 31
+Department ATCI Career Level 12
+Facility Hyderabad - HDC3B Entity ATCI
+PF – UAN 101285552978
+Earnings Amount in Rs. Deductions Amount in Rs.
+BASIC 15,000.00
+HOUSE RENT ALLOWANCE 7,500.00
+ADHOC ALLOWANCE 5,033.00
+MISCELLANEOUS ALLOWANCE 3,333.00
+ONCALL / SHIFT ALLOWANCE 3,200.00
+PROVIDENT FUND 1,800.00
+PROFESSIONAL TAX 200.00
+Z1 0.00
+Z2 0.00
+Z3 0.00
+GROSS EARNINGS 34,066.00 GROSS DEDUCTIONS 2,000.00
+NET PAY 32,066.00
+** This is a computer generated payslip and does not require signature and stamp.
+Accenture Solutions Pvt Ltd
+Payslip For DECEMBER  2019
+Personnel No. 11529297 Name Aman Kumar 
+Bank HDFC Bank A/c No. 50100217981645
+DOJ 23/Mar/2018 LOP Days 0
+PF No. MH/BAN/45665/1188766 STD Days 31
+Location Hyderabad Worked Days 31
+Department ATCI Career Level 12
+Facility Hyderabad - HDC3B Entity ATCI
+PF – UAN 101285552978
+Earnings Amount in Rs. Deductions Amount in Rs.
+BASIC 15,000.00
+HOUSE RENT ALLOWANCE 7,500.00
+ADHOC ALLOWANCE 5,033.00
+MISCELLANEOUS ALLOWANCE 3,333.00
+ONCALL / SHIFT ALLOWANCE 3,000.00
+PROVIDENT FUND 1,800.00
+PROFESSIONAL TAX 200.00
+Z1 0.00
+Z2 0.00
+Z3 0.00
+GROSS EARNINGS 33,866.00 GROSS DEDUCTIONS 2,000.00
+NET PAY 31,866.00
+** This is a computer generated payslip and does not require signature and stamp.
+Accenture Solutions Pvt Ltd
+Payslip For NOVEMBER  2019
+Personnel No. 11529297 Name Aman Kumar 
+Bank HDFC Bank A/c No. 50100217981645
+DOJ 23/Mar/2018 LOP Days 0
+PF No. MH/BAN/45665/1188766 STD Days 30
+Location Hyderabad Worked Days 30
+Department ATCI Career Level 12
+Facility Hyderabad - HDC3B Entity ATCI
+PF – UAN 101285552978
+Earnings Amount in Rs. Deductions Amount in Rs.
+BASIC 15,000.00
+HOUSE RENT ALLOWANCE 7,500.00
+ADHOC ALLOWANCE 1,533.00
+MISCELLANEOUS ALLOWANCE 3,333.00
+VARIABLE PAY 15,432.00
+ONCALL / SHIFT ALLOWANCE 3,400.00
+PROVIDENT FUND 1,800.00
+PROFESSIONAL TAX 200.00
+Z1 0.00
+Z2 0.00
+Z3 0.00
+Z4 0.00
+GROSS EARNINGS 46,198.00 GROSS DEDUCTIONS 2,000.00
+NET PAY 44,198.00
+** This is a computer generated payslip and does not require signature and stamp.
+Accenture Solutions Pvt Ltd
+Payslip For OCTOBER  2019
+Personnel No. 11529297 Name Aman Kumar 
+Bank HDFC Bank A/c No. 50100217981645
+DOJ 23/Mar/2018 LOP Days 0
+PF No. MH/BAN/45665/1188766 STD Days 31
+Location Hyderabad Worked Days 31
+Department ATCI Career Level 12
+Facility Hyderabad - HDC3B Entity ATCI
+PF – UAN 101285552978
+Earnings Amount in Rs. Deductions Amount in Rs.
+BASIC 15,000.00
+HOUSE RENT ALLOWANCE 7,500.00
+ADHOC ALLOWANCE 1,533.00
+MISCELLANEOUS ALLOWANCE 3,333.00
+ONCALL / SHIFT ALLOWANCE 2,400.00
+PROVIDENT FUND 1,800.00
+PROFESSIONAL TAX 200.00
+Z1 0.00
+Z2 0.00
+Z3 0.00
+GROSS EARNINGS 29,766.00 GROSS DEDUCTIONS 2,000.00
+NET PAY 27,766.00
+** This is a computer generated payslip and does not require signature and stamp.
+Accenture Solutions Pvt Ltd
+Payslip For SEPTEMBER  2019
+Personnel No. 11529297 Name Aman Kumar 
+Bank HDFC Bank A/c No. 50100217981645
+DOJ 23/Mar/2018 LOP Days 0
+PF No. MH/BAN/45665/1188766 STD Days 30
+Location Hyderabad Worked Days 30
+Department ATCI Career Level 12
+Facility Hyderabad - HDC3B Entity ATCI
+PF – UAN 101285552978
+Earnings Amount in Rs. Deductions Amount in Rs.
+BASIC 15,000.00
+HOUSE RENT ALLOWANCE 7,500.00
+ADHOC ALLOWANCE 1,533.00
+MISCELLANEOUS ALLOWANCE 3,333.00
+ONCALL / SHIFT ALLOWANCE 9,600.00
+PROVIDENT FUND 1,800.00
+PROFESSIONAL TAX 200.00
+Z1 0.00
+Z2 0.00
+Z3 0.00
+GROSS EARNINGS 36,966.00 GROSS DEDUCTIONS 2,000.00
+NET PAY 34,966.00
+** This is a computer generated payslip and does not require signature and stamp.
+Accenture Solutions Pvt Ltd
+Payslip For AUGUST  2019
+Personnel No. 11529297 Name Aman Kumar 
+Bank HDFC Bank A/c No. 50100217981645
+DOJ 23/Mar/2018 LOP Days 0
+PF No. MH/BAN/45665/1188766 STD Days 31
+Location Hyderabad Worked Days 31
+Department ATCI Career Level 12
+Facility Hyderabad - HDC3B Entity ATCI
+PF – UAN 101285552978
+Earnings Amount in Rs. Deductions Amount in Rs.
+BASIC 15,000.00
+HOUSE RENT ALLOWANCE 7,500.00
+ADHOC ALLOWANCE 1,533.00
+MISCELLANEOUS ALLOWANCE 3,333.00
+PROVIDENT FUND 1,800.00
+PROFESSIONAL TAX 200.00
+Z1 0.00
+Z2 0.00
+GROSS EARNINGS 27,366.00 GROSS DEDUCTIONS 2,000.00
+NET PAY 25,366.00
